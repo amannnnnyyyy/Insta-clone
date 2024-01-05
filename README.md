@@ -1,8 +1,12 @@
 # React + Vite
+
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Amanuel%20Moha-red)
+---
+
 # To run
 
  - npm install
- 
+
  - npm run dev
 
  This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
